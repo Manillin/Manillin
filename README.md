@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Manillin
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk lol
-- 📫 How to reach me @cchristianvw (twitter)
+CS student learning C++ and a little bit of JS
+interested in building web automated bots 
 
 <!---
 Manillin/Manillin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
