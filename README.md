@@ -1,5 +1,4 @@
-CS student learning C++ and a little bit of JS
-interested in building web automated bots 
+hello world
 
 <!---
 Manillin/Manillin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
